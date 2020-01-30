@@ -1,6 +1,6 @@
 """
 
-Problem: Faç um programa que receba a altura e o sexo de uma pessoa e calcule e mostre seu peso ideal
+Problem: Faça um programa que receba a altura e o sexo de uma pessoa e calcule e mostre seu peso ideal
         utilizando as seguintes formulas:
             Homens: (72.7 * H) - 58
             Mulheres: (62.1 * H) - 44.7
